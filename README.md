@@ -22,13 +22,10 @@ Hey, I'm Rohit 👋
 
 ""Simple DNA Analyzer" (https://github-readme-stats.vercel.app/api/pin/?username=rohitsinku360&repo=simple-dna-analyzer&theme=tokyonight)" (https://github.com/rohitsinku360/simple-dna-analyzer)
 
-🌐 Find me here
+### 🌐 Find me here
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/rohitsinku360)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-sinku-028424373)
-
-
 
 ---
 
