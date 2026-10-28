@@ -24,9 +24,10 @@ Hey, I'm Rohit 👋
 
 🌐 Find me here
 
-""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (https://github.com/rohitsinku360)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)" 
-(https://www.linkedin.com/in/rohit-sinku-028424373?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/rohitsinku360)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-sinku-028424373)
+
 
 
 ---
