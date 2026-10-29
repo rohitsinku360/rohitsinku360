@@ -18,9 +18,13 @@ Hey, I'm Rohit 👋
 <p>
   <img src="https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bioinformatics-exploring-2E8B57?style=for-the-badge" />
-</p>🚀 Featured project
 
-""Simple DNA Analyzer" (https://github-readme-stats.vercel.app/api/pin/?username=rohitsinku360&repo=simple-dna-analyzer&theme=tokyonight)" (https://github.com/rohitsinku360/simple-dna-analyzer)
+### 🚀 Featured project
+
+**🧬 [simple-dna-analyzer](https://github.com/rohitsinku360/simple-dna-analyzer)**
+
+A simple Python tool to analyze DNA sequences.
+
 
 ### 🌐 Find me here
 
